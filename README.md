@@ -187,7 +187,6 @@ mysql -u usuario -p nombre_bd < backup-2024-01-15.sql
 
 ## 🛡️ Seguridad
 
-- ⚠️ **NUNCA** subas el archivo `backup-mysql.php` con credenciales reales a un repositorio público
 - Usa variables de entorno para credenciales sensibles
 - Establece permisos de archivo apropiados (600 o 700)
 - Protege el directorio de backups con `.htaccess` o permisos restrictivos
@@ -255,8 +254,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 **Hugo Moreno**
 
-- Portfolio: [hugomoreno.es](https://hugomoreno.es)
-- GitHub: [@hugomoreno](https://github.com/hugomoreno)
+- Portfolio: [hugomoreno.es](https://hugomoreno.pro)
+- GitHub: [@hugomoreno](https://github.com/huugoomooreenoo)
 
 ## ⭐ Agradecimientos
 
@@ -272,3 +271,4 @@ Si tienes preguntas o necesitas ayuda, puedes:
 ---
 
 ⭐ Si este proyecto te resultó útil, ¡dale una estrella en GitHub!
+

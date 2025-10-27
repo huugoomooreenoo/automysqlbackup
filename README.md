@@ -254,8 +254,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 **Hugo Moreno**
 
-- Portfolio: [hugomoreno.es](https://hugomoreno.pro)
-- GitHub: [@hugomoreno](https://github.com/huugoomooreenoo)
+- Portfolio: [hugomoreno.pro](https://hugomoreno.pro)
+- GitHub: [@huugoomooreenoo](https://github.com/huugoomooreenoo)
 
 ## ⭐ Agradecimientos
 
@@ -271,4 +271,5 @@ Si tienes preguntas o necesitas ayuda, puedes:
 ---
 
 ⭐ Si este proyecto te resultó útil, ¡dale una estrella en GitHub!
+
 
